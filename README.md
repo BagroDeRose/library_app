@@ -100,3 +100,5 @@ All data is stored in `library_data.json`:
 ---
 
 **Simple. Functional. Educational.**
+
+Сделано давно и для универа
